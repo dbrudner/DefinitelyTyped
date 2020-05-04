@@ -20,9 +20,6 @@ export default function bankAccount() {
     } else {
       token.id;
       token.type;
-
-      // $ExpectError
-      token.fake;
     }
   });
 
